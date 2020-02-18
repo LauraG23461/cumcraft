@@ -15,3 +15,25 @@ thermal dynamics<br>
 thermal innovation<br>
 thermal cultivation<br>
 thermal tinkering<br>
+desire paths<br>
+cosmetic armour<br>
+random patches<br>
+waystyones<br>
+crayfish furniture<br>
+bibliocraft<br>
+hwyladesire paths<br>
+cosmetic armour<br>
+random patches<br>
+waystyones<br>
+crayfish furniture<br>
+bibliocraft<br>
+hwyla<br>
+backpacks<br>
+storage drawers<br>
+tinkers construct<br>
+wearable backpacks<br>
+open terrain generator<br>
+biome bundle<br>
+inventory tweaks<br>
+tree capitator<br>
+instant unify<br>
