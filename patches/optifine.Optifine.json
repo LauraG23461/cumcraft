@@ -1,0 +1,26 @@
+{
+    "+tweakers": [
+        "optifine.OptiFineTweaker"
+    ],
+    "formatVersion": 1,
+    "libraries": [
+        {
+            "name": "net.minecraft:launchwrapper:1.12"
+        },
+        {
+            "MMC-filename": "OptiFine_1.12.2_HD_U_F5.jar",
+            "MMC-hint": "local",
+            "name": "optifine:OptiFine:1.12.2_HD_U_F5"
+        }
+    ],
+    "mainClass": "net.minecraft.launchwrapper.Launch",
+    "name": "OptiFine",
+    "requires": [
+        {
+            "equals": "1.12",
+            "uid": "net.minecraft"
+        }
+    ],
+    "uid": "optifine.Optifine",
+    "version": "1.12.2_HD_U_F5"
+}
