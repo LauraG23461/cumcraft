@@ -45,9 +45,7 @@ instant unify<br>
 mousetweaks<br>
 waystones<br>
 extra utilities 2<br>
-decocraft<br>
 discord craft<br>
 item physics<br>
 tinkers tool levelling<br>
 open computers<br>
-extreme reactors
