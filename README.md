@@ -42,3 +42,10 @@ biome bundle<br>
 inventory tweaks<br>
 tree capitator<br>
 instant unify<br>
+mousetweaks<br>
+waystones<br>
+extra utilities 2<br>
+decocraft<br>
+discord craft<br>
+item physics<br>
+tinkers tool levelling
