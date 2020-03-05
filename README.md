@@ -51,4 +51,5 @@ tinkers tool levelling<br>
 open computers<br>
 extreme reactors<br>
 rf tools + dim<br>
-project red base + compat + fab + redstone
+project red base + compat + fab + redstone<br>
+thaumic tinkerer
