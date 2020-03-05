@@ -49,4 +49,6 @@ discord craft<br>
 item physics<br>
 tinkers tool levelling<br>
 open computers<br>
-extreme reactors
+extreme reactors<br>
+rf tools + dim<br>
+project red base + compat + fab + redstone
