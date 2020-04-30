@@ -3,8 +3,8 @@
 **INSTALLATION**<br>
 This modpack requires you have Forge Latest 14.23.5.2847 installed. _Any earlier version will not work._ To install this (assuming you have a fresh install with no mods):<br>
 1) Firstly, install **Forge Latest** http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html, run the installer and it will install for you. This will create a profile in the minecraft launcher.<br>
-2) Go to the directory of your .minecraft folder in C:\Users\(your pc name)\AppData\Roaming, or press windows key + r and type in %appdata% to get there.<br>
-3) The zip contains a .minecraft folder. Merge the one from the zip to the main one in the appdata directory we just mentioned<br><br>
+2) Go to the directory of your .minecraft folder in C:\Users\\(your pc name)\AppData\Roaming, or press windows key + r and type in %appdata% to get there.<br>
+3) The zip contains a .minecraft folder. Merge the one from the zip to the main one in the appdata directory we just mentioned.<br><br>
 **MODS LIST**<br>
 immersive engineering<br>
 immersive petroleum<br>
