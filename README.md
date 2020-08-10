@@ -1,4 +1,4 @@
-# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/237/snail_1f40c.png" width="45" align="left"> thos weormt<br>
+# <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/81/bug_1f41b.png" width="45" align="left"> thos weormt<br>
 
 **INSTALLATION**<br>
 This modpack requires you have Forge Latest 14.23.5.2847 installed. _Any earlier version will not work._ To install this (assuming you have a fresh install with no mods):<br>
